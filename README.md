@@ -20,8 +20,8 @@ Part of the Perpetua app fleet (`VNTR-Perpetua`).
 Flipnest is ✅ READY_FOR_SALE on the App Store (v0.1.0).
 
 > Status drifts — **re-verify rather than trust this line.**
-> `VNTR-Perpetua/company/state/app-fleet-status-2026-08-15.md` (as verified 2026-08-15)
-> carries the fleet-wide picture and the method to re-derive it.
+> `VNTR-Perpetua/company/state/ops-drops/store-versions.json` (live ASC / Play / public-store reads, refreshed each publisher cycle by `PRJ-Perpetua/dashboard/store_versions.py`)
+> carries the fleet-wide picture.
 
 ## Editing
 
